@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.3 (22386 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="38.8982800" minlon="-77.0501800" maxlat="38.9013200" maxlon="-77.0449100"/>
+ <node id="49762264" visible="true" version="6" changeset="3920604" timestamp="2010-02-20T05:53:18Z" user="NE2" uid="207745" lat="38.8983243" lon="-77.0488470">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="49799834" visible="true" version="7" changeset="22201231" timestamp="2014-05-08T03:46:52Z" user="howdystranger" uid="1839337" lat="38.8973557" lon="-77.0488619">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="641127585" visible="true" version="1" changeset="3889510" timestamp="2010-02-16T08:08:12Z" user="NE2" uid="207745" lat="38.8965641" lon="-77.0488658"/>
+ <node id="804599379" visible="true" version="1" changeset="5155510" timestamp="2010-07-07T01:33:49Z" user="aude" uid="12055" lat="38.8989461" lon="-77.0488371"/>
+ <node id="291675382" visible="true" version="3" changeset="5155510" timestamp="2010-07-07T01:34:45Z" user="aude" uid="12055" lat="38.8992236" lon="-77.0488323"/>
+ <node id="2451171135" visible="true" version="1" changeset="17742384" timestamp="2013-09-09T00:22:37Z" user="[TASF]Overkill" uid="620080" lat="38.8995675" lon="-77.0488337">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="49777696" visible="true" version="5" changeset="16594549" timestamp="2013-06-17T19:17:01Z" user="ToeBee" uid="262151" lat="38.8995735" lon="-77.0488337"/>
+ <node id="291675370" visible="true" version="2" changeset="3920604" timestamp="2010-02-20T05:53:20Z" user="NE2" uid="207745" lat="38.9002459" lon="-77.0488265"/>
+ <node id="1443727088" visible="true" version="1" changeset="9380858" timestamp="2011-09-24T00:05:42Z" user="NE2" uid="207745" lat="38.9006931" lon="-77.0488217"/>
+ <node id="49824719" visible="true" version="7" changeset="3920604" timestamp="2010-02-20T06:15:27Z" user="NE2" uid="207745" lat="38.9020773" lon="-77.0488070">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="49741717" visible="true" version="6" changeset="10384593" timestamp="2012-01-14T02:33:40Z" user="westendguy" uid="230350" lat="38.9062250" lon="-77.0466273"/>
+ <node id="49741715" visible="true" version="6" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9056254" lon="-77.0466435"/>
+ <node id="49741712" visible="true" version="5" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9045794" lon="-77.0466425"/>
+ <node id="49741711" visible="true" version="5" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9040364" lon="-77.0466425"/>
+ <node id="3099885755" visible="true" version="1" changeset="25718011" timestamp="2014-09-28T05:16:47Z" user="GWstudent007" uid="1247832" lat="38.9037918" lon="-77.0466442"/>
+ <node id="49741710" visible="true" version="5" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9037424" lon="-77.0466445"/>
+ <node id="633923936" visible="true" version="2" changeset="8886698" timestamp="2011-08-01T01:48:07Z" user="emacsen" uid="74937" lat="38.9026413" lon="-77.0466521"/>
+ <node id="1240476067" visible="true" version="2" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9025971" lon="-77.0466524"/>
+ <node id="49741709" visible="true" version="6" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9025294" lon="-77.0466529"/>
+ <node id="1240476062" visible="true" version="2" changeset="8886698" timestamp="2011-08-01T01:48:05Z" user="emacsen" uid="74937" lat="38.9024479" lon="-77.0466528"/>
+ <node id="49717477" visible="true" version="6" changeset="8886698" timestamp="2011-08-01T01:48:06Z" user="emacsen" uid="74937" lat="38.9024051" lon="-77.0466527"/>
+ <node id="1381210497" visible="true" version="1" changeset="8886698" timestamp="2011-08-01T01:48:04Z" user="emacsen" uid="74937" lat="38.9013184" lon="-77.0466527"/>
+ <node id="49741695" visible="true" version="9" changeset="24646377" timestamp="2014-08-10T03:21:13Z" user="dufekin" uid="30521" lat="38.8995802" lon="-77.0466509">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1381307996" visible="true" version="1" changeset="8887132" timestamp="2011-08-01T04:46:21Z" user="emacsen" uid="74937" lat="38.8983230" lon="-77.0466557"/>
+ <node id="49777749" visible="true" version="3" changeset="3046923" timestamp="2009-11-06T10:34:48Z" user="woodpeck_fixbot" uid="147510" lat="38.8996650" lon="-77.0533080"/>
+ <node id="291675380" visible="true" version="1" changeset="433512" timestamp="2008-08-28T04:20:07Z" user="flek" uid="54592" lat="38.8995761" lon="-77.0494976"/>
+ <node id="49777690" visible="true" version="4" changeset="5155510" timestamp="2010-07-07T01:34:45Z" user="aude" uid="12055" lat="38.8995722" lon="-77.0480006"/>
+ <node id="2383566163" visible="true" version="1" changeset="16940367" timestamp="2013-07-13T18:52:44Z" user="KathleenLD" uid="469297" lat="38.8995753" lon="-77.0457236"/>
+ <way id="50524889" visible="true" version="9" changeset="17742384" timestamp="2013-09-09T00:22:37Z" user="[TASF]Overkill" uid="620080">
+  <nd ref="641127585"/>
+  <nd ref="49799834"/>
+  <nd ref="49762264"/>
+  <nd ref="804599379"/>
+  <nd ref="291675382"/>
+  <nd ref="2451171135"/>
+  <nd ref="49777696"/>
+  <nd ref="291675370"/>
+  <nd ref="1443727088"/>
+  <nd ref="49824719"/>
+  <tag k="HFCS" v="Collector"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="22nd Street Northwest"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source:HFCS" v="District of Columbia (DC GIS)"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="District of Columbia, DC"/>
+  <tag k="tiger:name_base" v="22nd"/>
+  <tag k="tiger:name_direction_suffix" v="NW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="20008"/>
+  <tag k="tiger:zip_right" v="20008"/>
+ </way>
+ <way id="130908291" visible="true" version="5" changeset="25718011" timestamp="2014-09-28T05:16:47Z" user="GWstudent007" uid="1247832">
+  <nd ref="49741717"/>
+  <nd ref="49741715"/>
+  <nd ref="49741712"/>
+  <nd ref="49741711"/>
+  <nd ref="3099885755"/>
+  <nd ref="49741710"/>
+  <nd ref="633923936"/>
+  <nd ref="1240476067"/>
+  <nd ref="49741709"/>
+  <nd ref="1240476062"/>
+  <nd ref="49717477"/>
+  <nd ref="1381210497"/>
+  <nd ref="49741695"/>
+  <nd ref="1381307996"/>
+  <tag k="HFCS" v="Collector"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="name" v="21st Street Northwest"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source:HFCS" v="District of Columbia (DC GIS)"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="District of Columbia, DC"/>
+  <tag k="tiger:name_base" v="21st"/>
+  <tag k="tiger:name_direction_suffix" v="NW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="20009"/>
+  <tag k="tiger:zip_right" v="20009"/>
+ </way>
+ <way id="6056057" visible="true" version="14" changeset="19460319" timestamp="2013-12-15T08:51:55Z" user="michael colvin" uid="1329572">
+  <nd ref="49777749"/>
+  <nd ref="291675380"/>
+  <nd ref="49777696"/>
+  <nd ref="49777690"/>
+  <nd ref="49741695"/>
+  <nd ref="2383566163"/>
+  <tag k="HFCS" v="Collector"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="H Street Northwest"/>
+  <tag k="source:HFCS" v="District of Columbia (DC GIS)"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="District of Columbia, DC"/>
+  <tag k="tiger:name_base" v="H"/>
+  <tag k="tiger:name_direction_suffix" v="NW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="20037"/>
+  <tag k="tiger:zip_right" v="20037"/>
+ </way>
+</osm>
